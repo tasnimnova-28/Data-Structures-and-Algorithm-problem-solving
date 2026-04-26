@@ -12,14 +12,14 @@ int main() {
     }
     //bubble sort step by step
     for(int i=0; i<n-1; i++){
-        int swapped=0;
+        int swappedd=0;
         for(int j=0; j<n-i-1; j++){
             if(a[j] > a[j+1]){
                 swap(a[j], a[j+1]);
-                swapped=1;
+                swappedd=1;
             }
         }
-        if(swapped==0){
+        if(swappedd==0){
             break;
         }
     }
