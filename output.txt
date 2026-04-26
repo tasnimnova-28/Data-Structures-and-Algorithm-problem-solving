@@ -1,4 +1,4 @@
-Enter the size of the array: 
-Enter the elements of the array: 
-Enter the target element: 
-Element found at index: 4
+queue size: 4
+Front element: 10
+After popping: 
+Front element after popping: 20
