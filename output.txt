@@ -1,4 +1,5 @@
-queue size: 4
+queue size: 6
 Front element: 10
+Back element: 70
 After popping: 
-Front element after popping: 20
+Front element after popping: 30

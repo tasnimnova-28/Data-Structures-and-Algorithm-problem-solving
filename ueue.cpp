@@ -6,8 +6,11 @@ int main() {
     s.push(20);
     s.push(30);
     s.push(50);
+    s.push(60);
+    s.push(70);
     cout<<"queue size: "<<s.size()<<endl;
     cout<<"Front element: "<<s.front()<<endl;
+    cout<<"Back element: "<<s.back()<<endl;
     cout<<"After popping: "<<endl;
     s.pop();
     s.pop();
