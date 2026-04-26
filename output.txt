@@ -1,5 +1,4 @@
-queue size: 6
-Front element: 10
-Back element: 70
-After popping: 
-Front element after popping: 30
+Enter the size of the array: 
+Enter the elements of the array: 
+Sorted Array: 
+1 2 5 8 9 
