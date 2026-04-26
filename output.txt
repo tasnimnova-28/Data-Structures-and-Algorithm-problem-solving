@@ -1,0 +1,4 @@
+Enter the size of the array: 
+Enter the elements of the array: 
+Enter the target element: 
+Element found at index: 4
